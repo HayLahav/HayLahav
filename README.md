@@ -8,7 +8,7 @@ I am a B.Sc. graduate in Electrical and Electronics Engineering at Tel Aviv Univ
 
 Final degree project: "Electronic stabilization of images and videos by smartphone\laptop sensors and video processing algorithms". 📷
 
-I am primarily interested in the following fields:
+I am especially interested in the following fields:
 
 * AI and signal algorithms (such as Deep Learning, Computer Vision, image and video processing)
  I am mainly interested in camera and sensing technologies, for example in the field of autonomous 
