@@ -16,6 +16,7 @@ I am especially interested in the following fields:
 
 * Chip design and verification (front end)
  I am interested in the hardware domain with a preference for the field of AI processors
+
 Important course taken (grades):
 python (86) | C programming (88) | VLSI (91) | image processing lab (96) | Digital logic systems (89) | Digital circuits (82) | Computer Vision (87)
 
