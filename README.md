@@ -115,10 +115,12 @@ Welcome to my profile! Here's a short background about myself—check it out �
 - 50+ AI & Computer Vision Certifications on LinkedIn
 
 ---
+![Stats](https://github-readme-stats.vercel.app/api?username=HayLahav&show_icons=true&hide_title=true&theme=vercel)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HayLahav&layout=compact&theme=vercel)
 
 ## 🙋‍♂️ About Me
 
-I’m a highly motivated and curious individual with strong self-learning abilities. I work well in a team and am eager to begin my career in the high-tech industry as a dedicated young professional.
+I’m a highly motivated and curious individual with strong self-learning abilities. I work well in a team and am eager to begin my career in the Artificial intelligence (AI) industry as a dedicated young professional developer and researcher.
 
 ---
 
