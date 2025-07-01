@@ -116,7 +116,7 @@ Welcome to my profile! Here's a short background about myself—check it out �
 
 ---
 ![Stats](https://github-readme-stats.vercel.app/api?username=HayLahav&show_icons=true&hide_title=true&theme=vercel)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HayLahav&layout=compact&theme=vercel)
+
 
 ## 🙋‍♂️ About Me
 
