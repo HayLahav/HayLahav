@@ -14,9 +14,9 @@ Welcome to my profile! Here's a short background about myself—check it out �
 ## 🌟 Interests
 
 - **AI and Signal Algorithms**: Deep Learning, Computer Vision, Image and Video Processing  
-  > Main focus on camera and sensing technologies, especially in the field of autonomous vehicles.
+  > Main focus on camera and sensing technologies, especially in the fields of autonomous vehicles and health solutions.
 
-- **Chip Design and Verification (Front End)**  
+- **AI processors**  
   > Interest in the hardware domain with a preference for AI processors.
 
 ---
