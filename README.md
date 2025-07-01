@@ -116,7 +116,7 @@ Welcome to my profile! Here's a short background about myself—check it out �
 
 ---
 
-## 🙋 About Me
+## 🙋‍♂️ About Me
 
 I am a self-learner, fast learner, curious, work well in a team, and highly motivated to start my first job in the high-tech industry.
 
