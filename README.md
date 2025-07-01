@@ -49,11 +49,11 @@ Welcome to my profile! Here's a short background about myselfâ€”check it out ðŸ‘
 |---------------------------|-------|
 | Python                    | 86    |
 | C Programming             | 88    |
-| VLSI                      | 91    |
+| Computer Vision           | 87    |
 | Image Processing Lab      | 96    |
 | Digital Logic Systems     | 89    |
 | Digital Circuits          | 82    |
-| Computer Vision           | 87    |
+| VLSI                      | 91    |
 
 </td>
   </tr>
