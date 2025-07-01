@@ -115,8 +115,6 @@ Welcome to my profile! Here's a short background about myself—check it out �
 - 50+ AI & Computer Vision Certifications on LinkedIn
 
 ---
-![Stats](https://github-readme-stats.vercel.app/api?username=HayLahav&show_icons=true&hide_title=true&theme=vercel)
-
 
 ## 🙋‍♂️ About Me
 
