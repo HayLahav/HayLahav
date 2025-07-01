@@ -13,7 +13,7 @@ Welcome to my profile! Here's a short background about myself—check it out �
 
 ## 🌟 Interests
 
-- **AI and Signal Algorithms**: Deep Learning, Computer Vision, Image and Video Processing
+- **AI and Signal Algorithms**: Deep Learning, Computer Vision, Image and Video Processing  
   > Focused on camera and sensing technologies, especially in the fields of autonomous vehicles and healthcare solutions.
 
 - **AI Hardware and Processors**  
@@ -61,6 +61,32 @@ Welcome to my profile! Here's a short background about myself—check it out �
 
 ---
 
+## 🧰 Tech Stack
+
+<!-- Programming Languages -->
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white)
+![Matlab](https://img.shields.io/badge/Matlab-%23e16737.svg?style=for-the-badge&logo=mathworks&logoColor=white)
+![Verilog](https://img.shields.io/badge/Verilog-8B0000?style=for-the-badge&logo=verilog&logoColor=white)
+
+<!-- Deep Learning & AI -->
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
+<!-- Tools & Platforms -->
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Vivado](https://img.shields.io/badge/Xilinx%20Vivado-EE0000?style=for-the-badge&logo=xilinx&logoColor=white)
+![Cadence](https://img.shields.io/badge/Cadence-ED1C24?style=for-the-badge&logo=cadence&logoColor=white)
+
+---
+
 ## 💻 Programming Skills
 
 - **Languages**: C, Python, Matlab, C++ (intermediate), Verilog (intermediate)  
@@ -104,6 +130,7 @@ I am a self-learner, fast learner, curious, work well in a team, and highly moti
 - 🧠 GitHub: [@HayLahav](https://github.com/HayLahav)
 
 ---
+
 
 
 
