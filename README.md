@@ -65,7 +65,7 @@ Welcome to my profile! Here's a short background about myselfâ€”check it out ðŸ‘
 | Computational Learning Theory                                      | 80    |
 | Advanced Topics in Learning Theory                                 | 95    |
 
-**GPA:** 85
+**GPA:** 86
 
 </td>
     <td valign="top" width="50%">
