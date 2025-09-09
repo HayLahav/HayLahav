@@ -63,6 +63,7 @@ Welcome to my profile! Here's a short background about myselfâ€”check it out ðŸ‘
 | Mathematical Methods in Data Science and Signal Processing         | 95    |
 | Random Processes                                                   | 88    |
 | Computational Learning Theory                                      | 80    |
+| Advanced Topics in Learning Theory                                 | 95    |
 
 **GPA:** 85
 
