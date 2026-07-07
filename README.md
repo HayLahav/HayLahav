@@ -131,7 +131,7 @@ I’m a highly motivated and curious individual with strong self-learning abilit
 - 🧠 GitHub: [@HayLahav](https://github.com/HayLahav)
 
 ---
-## 🏅 Certifications
+## 🏅 Credly Certifications
 
 <p align="left">
   <a href="https://www.credly.com/users/hay-lahav/badges" target="_blank">
@@ -152,5 +152,15 @@ I’m a highly motivated and curious individual with strong self-learning abilit
 </p>
 
 📌 View all my verified credentials on my [Credly profile](https://www.credly.com/users/hay-lahav/badges).
+
+## 📜 Additional Certifications
+
+<p align="left">
+  <a href="https://huggingface.co/learn/agents-course" target="_blank">
+    <img src="https://huggingface.co/datasets/agents-course/certificates/resolve/main/certificates/HayLahav/2025-02-27.png" width="300" alt="Hugging Face - Fundamentals of Agents Certificate"/>
+  </a>
+</p>
+
+- **Fundamentals of Agents** (Unit 1: Foundations of Agents) — Hugging Face Agents Course, *Feb 2025*
 
 
