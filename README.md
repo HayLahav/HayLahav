@@ -153,7 +153,7 @@ I’m a highly motivated and curious individual with strong self-learning abilit
 
 📌 View all my verified credentials on my [Credly profile](https://www.credly.com/users/hay-lahav/badges).
 
-## 📜 Additional Certifications
+📜 Additional Certifications
 
 <p align="left">
   <a href="https://huggingface.co/learn/agents-course" target="_blank">
@@ -161,6 +161,18 @@ I’m a highly motivated and curious individual with strong self-learning abilit
   </a>
 </p>
 
-- **Fundamentals of Agents** (Unit 1: Foundations of Agents) — Hugging Face Agents Course, *Feb 2025*
+Fundamentals of Agents (Unit 1: Foundations of Agents) — Hugging Face Agents Course
+Fundamentals of Accelerated Computing with CUDA Python — NVIDIA Deep Learning Institute (Verify)
+Computer Vision Dataset Profiling Course — Deci (Certificate)
+Azure AI Fundamentals — Coller Business Data Science Club (TAU) × Microsoft
+Introduction to Image Generation — Google Cloud
+Camera and Imaging — Coursera / Columbia University (Verify)
+3D Reconstruction - Multiple Viewpoints — Coursera / Columbia University (Verify)
+DeepLearning.AI TensorFlow Developer (Professional Certificate, 4 courses) — Coursera / DeepLearning.AI (Verify)
+AI for Medical Diagnosis — Coursera / DeepLearning.AI (Verify)
+Self-Driving Cars (Specialization, 4 courses) — Coursera / University of Toronto (Verify)
+Generative Adversarial Networks (GANs) (Specialization, 3 courses) — Coursera / DeepLearning.AI (Verify)
+
+
 
 
