@@ -131,6 +131,26 @@ I’m a highly motivated and curious individual with strong self-learning abilit
 - 🧠 GitHub: [@HayLahav](https://github.com/HayLahav)
 
 ---
+## 🏅 Certifications
 
+<p align="left">
+  <a href="https://www.credly.com/users/hay-lahav/badges" target="_blank">
+    <img src="https://images.credly.com/images/2c13b954-b97e-4ccd-98a5-0d515410555b/blob" width="90" alt="IBM AI Engineering Professional Certificate"/>
+  </a>
+  <a href="https://www.credly.com/users/hay-lahav/badges" target="_blank">
+    <img src="https://images.credly.com/images/09cf81f7-74aa-42a4-8858-d7f1cdb944f6/blob" width="90" alt="IBM Machine Learning with Python"/>
+  </a>
+  <a href="https://www.credly.com/users/hay-lahav/badges" target="_blank">
+    <img src="https://images.credly.com/images/030dff43-c0f1-4328-83d3-31e3124ca068/image.png" width="90" alt="Badge Name 3"/>
+  </a>
+  <a href="https://www.credly.com/users/hay-lahav/badges" target="_blank">
+    <img src="https://images.credly.com/images/3551a56d-e006-4e63-be6d-6842d2d53cfa/image.png" width="90" alt="Badge Name 4"/>
+  </a>
+  <a href="https://www.credly.com/users/hay-lahav/badges" target="_blank">
+    <img src="https://images.credly.com/images/91de936a-1322-446d-9ea6-949d78c57428/image.png" width="90" alt="Badge Name 5"/>
+  </a>
+</p>
+
+📌 View all my verified credentials on my [Credly profile](https://www.credly.com/users/hay-lahav/badges).
 
 
