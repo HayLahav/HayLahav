@@ -156,23 +156,30 @@ I’m a highly motivated and curious individual with strong self-learning abilit
 📜 Additional Certifications
 
 <p align="left">
+  <img src="assets/certificates/self-driving-cars.png" width="200" alt="Self-Driving Cars Specialization"/>
+  <img src="assets/certificates/gans.png" width="200" alt="Generative Adversarial Networks (GANs) Specialization"/>
+  <img src="assets/certificates/camera-imaging.png" width="200" alt="Camera and Imaging"/>
+  <img src="assets/certificates/3d-reconstruction.png" width="200" alt="3D Reconstruction - Multiple Viewpoints"/>
+  <img src="assets/certificates/tensorflow-developer.png" width="200" alt="DeepLearning.AI TensorFlow Developer"/>
+  <img src="assets/certificates/ai-medical-diagnosis.png" width="200" alt="AI for Medical Diagnosis"/>
+  <img src="assets/certificates/azure-ai-fundamentals.jpg" width="200" alt="Azure AI Fundamentals"/>
+  <img src="assets/certificates/google-cloud-image-generation.png" width="200" alt="Google Cloud - Introduction to Image Generation"/>
   <a href="https://huggingface.co/learn/agents-course" target="_blank">
-    <img src="https://huggingface.co/datasets/agents-course/certificates/resolve/main/certificates/HayLahav/2025-02-27.png" width="300" alt="Hugging Face - Fundamentals of Agents Certificate"/>
+    <img src="https://huggingface.co/datasets/agents-course/certificates/resolve/main/certificates/HayLahav/2025-02-27.png" width="200" alt="Hugging Face - Fundamentals of Agents"/>
   </a>
 </p>
 
-Fundamentals of Agents (Unit 1: Foundations of Agents) — Hugging Face Agents Course
-Fundamentals of Accelerated Computing with CUDA Python — NVIDIA Deep Learning Institute (Verify)
-Computer Vision Dataset Profiling Course — Deci (Certificate)
-Azure AI Fundamentals — Coller Business Data Science Club (TAU) × Microsoft
-Introduction to Image Generation — Google Cloud
-Camera and Imaging — Coursera / Columbia University (Verify)
-3D Reconstruction - Multiple Viewpoints — Coursera / Columbia University (Verify)
-DeepLearning.AI TensorFlow Developer (Professional Certificate, 4 courses) — Coursera / DeepLearning.AI (Verify)
-AI for Medical Diagnosis — Coursera / DeepLearning.AI (Verify)
-Self-Driving Cars (Specialization, 4 courses) — Coursera / University of Toronto (Verify)
-Generative Adversarial Networks (GANs) (Specialization, 3 courses) — Coursera / DeepLearning.AI (Verify)
-
+- **Fundamentals of Agents** (Unit 1: Foundations of Agents) — Hugging Face Agents Course
+- **Fundamentals of Accelerated Computing with CUDA Python** — NVIDIA Deep Learning Institute ([Verify](https://learn.nvidia.com/certificates?id=702c193c02f547ab9659d41cd9ce4b1d))
+- **Computer Vision Dataset Profiling Course** — Deci ([Certificate](https://drive.google.com/file/d/14H5UWHpeck5YsNa5Q3Yzz6eoUcS_AiXp/view?usp=sharing))
+- **Azure AI Fundamentals** — Coller Business Data Science Club (TAU) × Microsoft
+- **Introduction to Image Generation** — Google Cloud
+- **Camera and Imaging** — Coursera / Columbia University ([Verify](https://coursera.org/verify/TT57SU6MV538))
+- **3D Reconstruction - Multiple Viewpoints** — Coursera / Columbia University ([Verify](https://coursera.org/verify/XNCA7GFPEMF7))
+- **DeepLearning.AI TensorFlow Developer** (Professional Certificate, 4 courses) — Coursera / DeepLearning.AI ([Verify](https://coursera.org/verify/professional-cert/7P74VPR3NVUJ))
+- **AI for Medical Diagnosis** — Coursera / DeepLearning.AI ([Verify](https://coursera.org/verify/LN7VN2GGHZ2V))
+- **Self-Driving Cars** (Specialization, 4 courses) — Coursera / University of Toronto ([Verify](https://coursera.org/verify/specialization/7XBS3PKQQCT9))
+- **Generative Adversarial Networks (GANs)** (Specialization, 3 courses) — Coursera / DeepLearning.AI ([Verify](https://coursera.org/verify/specialization/7FH9VRTRA4WT))
 
 
 
